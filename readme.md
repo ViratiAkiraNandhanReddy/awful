@@ -89,7 +89,7 @@
 - _No Awful entries yet._
 
 ## Security
-- _No Awful entries yet._
+- [CaesarCipher.extended](https://github.com/ViratiAkiraNandhanReddy/CaesarCipher.extended#readme) - A feature-rich extension of the classic Caesar cipher.
 
 ## Content Management Systems
 - _No Awful entries yet._
