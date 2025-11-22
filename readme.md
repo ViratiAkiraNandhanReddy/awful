@@ -29,6 +29,7 @@
 - [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Media](#media)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
@@ -84,10 +85,13 @@
 - _No Awful entries yet._
 
 ## Media
-### Music Player
-- [Vibe you](https://github.com/you-apps/VibeYou#readme) - Privacy focused music player built with MD3
-### Voice Recorder
-- [Record You](https://github.com/you-apps/RecordYou#readme) - Privacy focused recorder app built with MD3
+- Music Player
+	- [Vibe you](https://github.com/you-apps/VibeYou#readme) - Privacy focused music player built with MD3
+- Voice Recorder
+	- [Record You](https://github.com/you-apps/RecordYou#readme) - Privacy focused recorder app built with MD3
+
+## Artificial Intelligence
+- [ai](https://github.com/daviddao/awful-ai#readme) - Tracks current scary usages of AI.
 
 ## Learn
 - _No Awful entries yet._
