@@ -42,7 +42,7 @@
 * [ ] Repo includes GitHub topics: `awful-list` & `awful`.
 * [ ] Repo includes awful-badge at the top
 * [ ] Readme must include a **one-line description** at the top summarizing the project/theme.
-* [ ] Only include **fully developed, useful, stable items**. Archive or incomplete projects aren't allowed.
+* [ ] Only include **fully developed, useful, stable items**. Archived projects are allowed.
 * [ ] If repo contains multiple projects, clearly mention in description.
 * [ ] Avoid **hard-wrapping Markdown**.
 * [ ] Do **not** include CI badges or “Inspired by Awful” links; the Awful badge suffices.
