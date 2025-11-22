@@ -50,7 +50,8 @@
 - _No Awful entries yet._
 
 ## Front-End Development
-- _No Awful entries yet._
+- 404 Pages
+	- [404-blurglass-max](https://github.com/ViratiAkiraNandhanReddy/404-blurglass-max#readme) — A blurred-glass styled 404 page.
 
 ## Back-End Development
 - _No Awful entries yet._
